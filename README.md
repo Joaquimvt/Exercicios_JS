@@ -34,7 +34,7 @@ Cada desafio apresenta uma situação prática onde o usuário pode inserir dado
   
 ## 🌐 Link do Projeto
 
-Acesse o projeto em: (link)
+Acesse o projeto em: https://joaquimvt.github.io/Exercicios_JS/
 
 
 📌 Desenvolvido por Joca.vt
